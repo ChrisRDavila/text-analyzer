@@ -1,3 +1,7 @@
+## text-analyzer
+
+practice with early TDD, no testing, psuedo code describe and to prepare for TDD
+
 Describe: wordCounter()
 
 Test: "It should return 1 if a passage has just one word."
